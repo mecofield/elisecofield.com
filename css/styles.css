@@ -2,4 +2,23 @@
 	background-image: url('../images/navbar-background.jpg');
 	background-color: transparent;
 	color: white;
+
+}
+
+.navbar-wrapper .navbar {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.jumbotron>.container {
+	margin-top:100px;
+	margin-bottom:100px;
+}
+
+.navbar-header a {
+	color: black;
+}
+
+.navbar-collapse a {
+	color: black;
 }
